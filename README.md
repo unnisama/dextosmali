@@ -1,2 +1,2 @@
-Dexdump modified to generate smali
-will need aosp to build
+- Dexdump modified to generate smali 
+- will need aosp to build
