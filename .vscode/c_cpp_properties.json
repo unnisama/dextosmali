@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/nob/Documents/Projects/C++/libdexfileheaders"
+            ],
+            "defines": [
+                "INTELLISENSE_FIXALGO"
+            ],
+            "compilerPath": "/mnt/Data/home/nob/Documents/aosp/prebuilts/clang/host/linux-x86/clang-r416183b1/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
